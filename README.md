@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Ayuwalsys
-- 👀 I’m interested in Data Science 
+- 👋 Hi, I’m @Ayuwalsys.
+- 👀 I’m Passionate about Machine Learning.
 - 🌱 I’m currently learning Machine Learning AWS cloud environment 
 - 💞️ I’m looking to collaborate on Machine Learning/AI
 - 📫 How to reach me: https://www.linkedin.com/in/waliu-adebayo-ayuba
