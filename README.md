@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ayuwalsys.
-- 👀 I’m Passionate about Machine Learning.
+- 👀 I’m Passionate about ML/AI.
 - 🌱 I’m currently studying Master's Degree in Data Science
 - 💞️ I’m looking to collaborate on ML/AI
 - 📫 How to reach me: https://www.linkedin.com/in/waliu-ayuba
